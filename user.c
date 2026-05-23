@@ -5,5 +5,6 @@ int main()
     printf("thank you ");
     printf("this is a file");
     printf("learning git");
+    printf("verify rebase");
     return 0;
 }
